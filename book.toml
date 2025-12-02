@@ -1,0 +1,15 @@
+[book]
+title = "질문하는 믿음, 답하시는 하나님"
+authors = ["이원재"]
+description = "성경이 말하는 구원과 영원에 대한 탐구"
+language = "ko"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/dimohy/AnsweredFaith"
+site-url = "/AnsweredFaith/"
